@@ -1,5 +1,3 @@
----
-
 # TailwindCSS Mini Projects
 
 Welcome to my collection of mini projects using TailwindCSS! This repository contains a series of small projects that I've created to practice and demonstrate my skills with TailwindCSS, a utility-first CSS framework.
@@ -56,7 +54,7 @@ A simple email subscribe form using TailwindCSS.
 - **File:** `email-subscribe/index.html`
 - **Description:** This project showcases a clean and responsive email subscribe form.
 
-### Project 2: Image Gallery
+<!-- ### Project 2: Image Gallery
 
 A responsive image gallery built with TailwindCSS.
 
@@ -82,7 +80,7 @@ Responsive pricing cards using TailwindCSS.
 A product modal built with TailwindCSS.
 
 - **File:** `product-modal/index.html`
-- **Description:** This project presents a detailed product modal for e-commerce sites.
+- **Description:** This project presents a detailed product modal for e-commerce sites. -->
 
 ## Usage
 
@@ -101,4 +99,3 @@ If you'd like to contribute to these projects, feel free to fork the repository 
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
----
