@@ -7,9 +7,9 @@ Welcome to my collection of mini projects using TailwindCSS! This repository con
 - [Installation](#installation)
 - [Projects](#projects)
   - [Project 1: Email Subscribe Form](#project-1-email-subscribe-form)
-<!--   - [Project 2: Image Gallery](#project-2-image-gallery)
+  - [Project 2: Pricing Cards](#project-2-pricing-cards)
+<!--  - [Project 2: Image Gallery](#project-2-image-gallery)
   - [Project 3: Login Modal](#project-3-login-modal)
-  - [Project 4: Pricing Cards](#project-4-pricing-cards)
   - [Project 5: Product Modal](#project-5-product-modal) -->
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -54,6 +54,14 @@ A simple email subscribe form using TailwindCSS.
 - **File:** `email-subscribe/index.html`
 - **Description:** This project showcases a clean and responsive email subscribe form.
 
+### Project 2: Pricing Cards
+
+Responsive pricing cards using TailwindCSS.
+
+- **File:** `pricing-cards/index.html`
+- **Description:** This project includes different pricing card styles for showcasing product pricing.
+
+
 <!-- ### Project 2: Image Gallery
 
 A responsive image gallery built with TailwindCSS.
@@ -68,12 +76,7 @@ A login modal designed with TailwindCSS.
 - **File:** `login-modal/index.html`
 - **Description:** This project features a modal dialog for user login.
 
-### Project 4: Pricing Cards
 
-Responsive pricing cards using TailwindCSS.
-
-- **File:** `pricing-cards/index.html`
-- **Description:** This project includes different pricing card styles for showcasing product pricing.
 
 ### Project 5: Product Modal
 
