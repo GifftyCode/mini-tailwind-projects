@@ -76,7 +76,7 @@ A responsive image gallery built with TailwindCSS.
 - **File:** `image-gallery/index.html`
 - **Description:** This project demonstrates a grid-based image gallery layout.
 
-### Project 3: Login Modal
+### Project 5: Login Modal
 
 A login modal designed with TailwindCSS.
 
