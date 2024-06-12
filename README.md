@@ -10,9 +10,8 @@ Welcome to my collection of mini projects using TailwindCSS! This repository con
   - [Project 2: Pricing Cards](#project-2-pricing-cards)
   - [Project 3: Product Modal](#project-3-product-modal)
   - [Project 4: Image Gallery](#project-4-image-gallery)
-<!-- 
-  - [Project 3: Login Modal](#project-3-login-modal)
-   -->
+  - [Project 5: Login Modal](#project-5-login-modal)
+
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -77,16 +76,13 @@ A responsive image gallery built with TailwindCSS.
 - **File:** `image-gallery/index.html`
 - **Description:** This project demonstrates a grid-based image gallery layout.
 
-<!--### Project 3: Login Modal
+### Project 3: Login Modal
 
 A login modal designed with TailwindCSS.
 
 - **File:** `login-modal/index.html`
 - **Description:** This project features a modal dialog for user login.
 
-
-
--->
 
 ## Usage
 
