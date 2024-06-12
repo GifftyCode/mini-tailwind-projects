@@ -8,9 +8,10 @@ Welcome to my collection of mini projects using TailwindCSS! This repository con
 - [Projects](#projects)
   - [Project 1: Email Subscribe Form](#project-1-email-subscribe-form)
   - [Project 2: Pricing Cards](#project-2-pricing-cards)
+  - [Project 3: Product Modal](#project-3-product-modal)
 <!--  - [Project 2: Image Gallery](#project-2-image-gallery)
   - [Project 3: Login Modal](#project-3-login-modal)
-  - [Project 5: Product Modal](#project-5-product-modal) -->
+   -->
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -61,7 +62,13 @@ Responsive pricing cards using TailwindCSS.
 - **File:** `pricing-cards/index.html`
 - **Description:** This project includes different pricing card styles for showcasing product pricing.
 
+### Project 3: Product Modal
 
+A product modal built with TailwindCSS.
+
+- **File:** `product-modal/index.html`
+- **Description:** This project presents a detailed product modal for e-commerce sites.
+  
 <!-- ### Project 2: Image Gallery
 
 A responsive image gallery built with TailwindCSS.
@@ -78,12 +85,7 @@ A login modal designed with TailwindCSS.
 
 
 
-### Project 5: Product Modal
-
-A product modal built with TailwindCSS.
-
-- **File:** `product-modal/index.html`
-- **Description:** This project presents a detailed product modal for e-commerce sites. -->
+-->
 
 ## Usage
 
